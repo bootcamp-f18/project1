@@ -1,6 +1,6 @@
 # Project 1: Campaign Website
 
-Create a website promoting your favorite FICTIONAL character from a book, TV show, movie, or graphic novel,
+Create a website promoting your favorite FICTIONAL character from a book, TV show, movie, or graphic novel
 who is running for the elected position of Constable in your magistrate district of Fayette County. (There
 are 3 such districts.)
 
