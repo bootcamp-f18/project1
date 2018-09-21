@@ -20,7 +20,7 @@ To complete the assignment, you must:
 4. Write instructions in your README for converting your Sass file(s) to CSS.
 5. Push your code to Github.
 6. Set up Github Pages to publish your website.
-7. Post links to your Github repo and Github Pages website on your student page in the Class Notes repo.
+7. Post links to your Github repo and Github Pages website on your student page in the Class Notes repo. (You don't need to wait for +2 to merge this small change to dev.)
 
 You may use Bootstrap for basic styling and incorporate it into your Sass file.
 
